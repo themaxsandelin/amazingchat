@@ -5,6 +5,6 @@ To get the application up and running:
   - Make sure you have node installed
   - Clone the repo
   - Run <b>npm install</b>
-  - Run node server.js
+  - Run <b>node server.js</b>
 
 <b>Done!</b>
